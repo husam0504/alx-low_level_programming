@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
- *main - comment required
- *return : zero always (success)
+ * main - required
+ * Return: zero
  */
 int main(void)
 {
